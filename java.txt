@@ -1,0 +1,3 @@
+______________is multiple inheritence allowed in java_____
+multiple inheritence  face problems when there exist methods with same signature in both the super classes
+due to such problems java does'n allow multiple inheritence  directly but the similar concept can be achieved by using interfaces A class can implement multiple interfaces and extends a calss at the same time 

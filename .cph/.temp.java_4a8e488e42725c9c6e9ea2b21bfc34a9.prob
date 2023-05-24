@@ -1,0 +1,1 @@
+{"name":"Local: temp","url":"d:\\Programming\\javaProgramming\\javaPrograms\\temp.java","tests":[{"id":1680282313502,"input":"5\n1 1 1 2 2","output":"Valid Purchase"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\javaProgramming\\javaPrograms\\temp.java","group":"local","local":true}
